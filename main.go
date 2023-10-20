@@ -13,4 +13,5 @@ func fibonacci(n int) int {
 
 func main() {
 	fmt.Print(fibonacci(10))
+
 }
